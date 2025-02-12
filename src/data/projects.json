@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Link Shortener Application",
+    "imageSrc": "projects/project.png",
+    "description": "A high-performance URL shortener that generates custom short links with real-time analytics tracking.",
+    "skills": ["React", "Vite", "Supabase", "ShadCN UI", "Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/RaviYadav100/Url-ShortnerApp"
+}
+,
+{
+  "title": "Mail Application",
+  "imageSrc": "projects/project.png",
+  "description": "A web-based mail-sending system with SMTP configuration, secure authentication, and message tracking.",
+  "skills": ["PHP", "MySQL", "SMTP", "Authentication", "CRUD"],
+  "demo": "https://www.example.com",
+  "source": "https://github.com/RaviYadav100"
+}
+,
+{
+  "title": "Fitness App UI/UX Design",
+  "imageSrc": "projects/project.png",
+  "description": "A user-friendly fitness app design with intuitive navigation, personalized workout plans, and calorie tracking.",
+  "skills": ["UI/UX Design", "Figma", "Wireframing", "Prototyping"],
+  "demo": "https://rb.gy/pr0447",
+  "source": "https://www.figma.com/design/yIn9ZLDunZfKdF7gKEsHTa/Untitled?node-id=105-227&t=gxBbqdCPZNQVKFBx-1"
+}
+
+]
